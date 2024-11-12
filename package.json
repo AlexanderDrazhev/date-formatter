@@ -1,0 +1,15 @@
+{
+  "name": "date-formatter",
+  "version": "1.0.0",
+  "description": "Date Formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "date",
+    "formatter"
+  ],
+  "author": "Alexander Drazhev",
+  "license": "ISC"
+}
